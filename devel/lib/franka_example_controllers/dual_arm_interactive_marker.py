@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/franka_example_controllers/lib/franka_example_controllers/dual_arm_interactive_marker.py

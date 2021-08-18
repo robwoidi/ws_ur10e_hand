@@ -1,0 +1,5 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libroboticsgroup_upatras_gazebo_mimic_joint_plugin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libroboticsgroup_upatras_gazebo_disable_link_plugin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/roboticsgroup_upatras_gazebo_plugins.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/roboticsgroup_upatras_gazebo_plugins/cmake/roboticsgroup_upatras_gazebo_pluginsConfig-version.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/roboticsgroup_upatras_gazebo_plugins/cmake/roboticsgroup_upatras_gazebo_pluginsConfig.cmake

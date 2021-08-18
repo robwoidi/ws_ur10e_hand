@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/roboticsgroup_upatras_gazebo_plugins/share/roboticsgroup_upatras_gazebo_plugins/cmake/roboticsgroup_upatras_gazebo_pluginsConfig.cmake

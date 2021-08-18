@@ -1,0 +1,6 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_visual_tools.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_visual_tools.so.3.6.0
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_visual_tools/moveit_visual_tools_demo
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_visual_tools.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig-version.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake

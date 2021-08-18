@@ -1,0 +1,12 @@
+universal_robot/ur_kinematics
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/libur10_kin.so /home/woidi/ws_ur10e_hand/devel/lib/libur10_kin.so
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/libur5_moveit_plugin.so /home/woidi/ws_ur10e_hand/devel/lib/libur5_moveit_plugin.so
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/libur5_kin.so /home/woidi/ws_ur10e_hand/devel/lib/libur5_kin.so
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/libur3_kin.so /home/woidi/ws_ur10e_hand/devel/lib/libur3_kin.so
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/libur10_moveit_plugin.so /home/woidi/ws_ur10e_hand/devel/lib/libur10_moveit_plugin.so
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/libur3_moveit_plugin.so /home/woidi/ws_ur10e_hand/devel/lib/libur3_moveit_plugin.so
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/pkgconfig/ur_kinematics.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/ur_kinematics.pc
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib/python3/dist-packages/ur_kinematics/__init__.py /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake

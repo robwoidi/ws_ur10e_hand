@@ -1,0 +1,14 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/include/moveit_ros_manipulation/PickPlaceDynamicReconfigureConfig.h
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_pick_place_planner.so.1.1.5
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_move_group_pick_place_capability.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_pick_place_planner.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_move_group_pick_place_capability.so.1.1.5
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_ros_manipulation.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/moveit_ros_manipulation/__init__.py
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/moveit_ros_manipulation/cfg/PickPlaceDynamicReconfigureConfig.py
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/moveit_ros_manipulation/cfg/__init__.py
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_manipulation/cmake/moveit_ros_manipulationConfig-version.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_manipulation/cmake/moveit_ros_manipulationConfig.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_manipulation/docs/PickPlaceDynamicReconfigureConfig.dox
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_manipulation/docs/PickPlaceDynamicReconfigureConfig-usage.dox
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_manipulation/docs/PickPlaceDynamicReconfigureConfig.wikidoc

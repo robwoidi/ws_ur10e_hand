@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_planning_interface/share/moveit_ros_planning_interface/cmake/moveit_ros_planning_interfaceConfig.cmake

@@ -1,0 +1,2 @@
+franka_ros/franka_ros
+/home/woidi/ws_ur10e_hand/devel/.private/franka_ros/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock

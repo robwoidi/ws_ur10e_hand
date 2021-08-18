@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/__init__.py

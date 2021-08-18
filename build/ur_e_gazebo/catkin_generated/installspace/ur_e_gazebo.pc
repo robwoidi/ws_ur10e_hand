@@ -1,0 +1,8 @@
+prefix=/home/woidi/ws_ur10e_hand/install
+
+Name: ur_e_gazebo
+Description: Description of ur_e_gazebo
+Version: 1.2.7
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,33 @@
+#!/bin/sh
+
+if [ -n "$DESTDIR" ] ; then
+    case $DESTDIR in
+        /*) # ok
+            ;;
+        *)
+            /bin/echo "DESTDIR argument must be absolute... "
+            /bin/echo "otherwise python's distutils will bork things."
+            exit 1
+    esac
+fi
+
+echo_and_run() { echo "+ $@" ; "$@" ; }
+
+echo_and_run cd "/home/woidi/ws_ur10e_hand/src/moveit/moveit_ros/planning_interface"
+
+# ensure that Python install destination exists
+echo_and_run mkdir -p "$DESTDIR/home/woidi/ws_ur10e_hand/install/lib/python3/dist-packages"
+
+# Note that PYTHONPATH is pulled from the environment to support installing
+# into one location when some dependencies were installed in another
+# location, #123.
+echo_and_run /usr/bin/env \
+    PYTHONPATH="/home/woidi/ws_ur10e_hand/install/lib/python3/dist-packages:/home/woidi/ws_ur10e_hand/build/moveit_ros_planning_interface/lib/python3/dist-packages:$PYTHONPATH" \
+    CATKIN_BINARY_DIR="/home/woidi/ws_ur10e_hand/build/moveit_ros_planning_interface" \
+    "/usr/bin/python3" \
+    "/home/woidi/ws_ur10e_hand/src/moveit/moveit_ros/planning_interface/setup.py" \
+     \
+    build --build-base "/home/woidi/ws_ur10e_hand/build/moveit_ros_planning_interface" \
+    install \
+    --root="${DESTDIR-/}" \
+    --install-layout=deb --prefix="/home/woidi/ws_ur10e_hand/install" --install-scripts="/home/woidi/ws_ur10e_hand/install/bin"

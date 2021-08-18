@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/franka_hw/share/franka_hw/cmake/franka_hwConfig-version.cmake

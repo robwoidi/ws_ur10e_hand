@@ -1,0 +1,5 @@
+franka_ros/franka_description
+/home/woidi/ws_ur10e_hand/devel/.private/franka_description/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
+/home/woidi/ws_ur10e_hand/devel/.private/franka_description/lib/pkgconfig/franka_description.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/franka_description.pc
+/home/woidi/ws_ur10e_hand/devel/.private/franka_description/share/franka_description/cmake/franka_descriptionConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/franka_description/cmake/franka_descriptionConfig-version.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/franka_description/share/franka_description/cmake/franka_descriptionConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/franka_description/cmake/franka_descriptionConfig.cmake

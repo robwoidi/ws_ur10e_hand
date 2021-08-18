@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/ur_bringup/share/ur_bringup/cmake/ur_bringupConfig-version.cmake

@@ -1,0 +1,6 @@
+devel_space: /home/woidi/ws_ur10e_hand/devel
+install: false
+install_space: /home/woidi/ws_ur10e_hand/install
+profile: default
+source_space: /home/woidi/ws_ur10e_hand/src
+workspace: /home/woidi/ws_ur10e_hand

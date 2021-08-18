@@ -1,0 +1,8 @@
+prefix=/home/woidi/ws_ur10e_hand/devel/.private/moveit_planners_chomp
+
+Name: moveit_planners_chomp
+Description: Description of moveit_planners_chomp
+Version: 1.1.5
+Cflags: -I/home/woidi/ws_ur10e_hand/src/moveit/moveit_planners/chomp/chomp_interface/include
+Libs: -L${prefix}/lib -lmoveit_planners_chomp
+Requires: roscpp moveit_core pluginlib

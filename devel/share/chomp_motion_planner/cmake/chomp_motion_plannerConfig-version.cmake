@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/chomp_motion_planner/share/chomp_motion_planner/cmake/chomp_motion_plannerConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/ur_gazebo/share/ur_gazebo/cmake/ur_gazeboConfig.cmake

@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/catkin_tools_prebuild/local_setup.zsh

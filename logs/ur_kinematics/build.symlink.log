@@ -1,0 +1,10 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libur10_kin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libur5_moveit_plugin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libur5_kin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libur3_kin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libur10_moveit_plugin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libur3_moveit_plugin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/ur_kinematics.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/ur_kinematics/__init__.py
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/ur_kinematics/cmake/ur_kinematicsConfig-version.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake

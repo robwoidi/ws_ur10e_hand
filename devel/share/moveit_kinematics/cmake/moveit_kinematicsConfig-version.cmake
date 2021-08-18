@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/moveit_kinematics/share/moveit_kinematics/cmake/moveit_kinematicsConfig-version.cmake

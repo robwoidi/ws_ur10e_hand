@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/ur_msgs/share/roseus/ros/ur_msgs/srv/SetIO.l

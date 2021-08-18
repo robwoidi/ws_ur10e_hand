@@ -1,0 +1,5 @@
+universal_robot/ur_description
+/home/woidi/ws_ur10e_hand/devel/.private/ur_description/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
+/home/woidi/ws_ur10e_hand/devel/.private/ur_description/lib/pkgconfig/ur_description.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/ur_description.pc
+/home/woidi/ws_ur10e_hand/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/ur_description/cmake/ur_descriptionConfig.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/ur_description/share/ur_description/cmake/ur_descriptionConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/ur_description/cmake/ur_descriptionConfig-version.cmake

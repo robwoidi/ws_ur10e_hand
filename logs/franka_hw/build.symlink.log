@@ -1,0 +1,5 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libfranka_control_services.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libfranka_hw.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/franka_hw.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/franka_hw/cmake/franka_hwConfig.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/franka_hw/cmake/franka_hwConfig-version.cmake

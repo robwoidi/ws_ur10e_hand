@@ -1,0 +1,8 @@
+prefix=/home/woidi/ws_ur10e_hand/install
+
+Name: franka_visualization
+Description: Description of franka_visualization
+Version: 0.8.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: sensor_msgs roscpp

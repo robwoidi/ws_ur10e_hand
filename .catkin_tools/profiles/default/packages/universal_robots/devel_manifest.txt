@@ -1,0 +1,2 @@
+universal_robot/universal_robots
+/home/woidi/ws_ur10e_hand/devel/.private/universal_robots/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock

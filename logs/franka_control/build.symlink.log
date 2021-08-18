@@ -1,0 +1,6 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libfranka_state_controller.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/franka_control.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/franka_control/franka_control_node
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/franka_control/franka_combined_control_node
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/franka_control/cmake/franka_controlConfig-version.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/franka_control/cmake/franka_controlConfig.cmake

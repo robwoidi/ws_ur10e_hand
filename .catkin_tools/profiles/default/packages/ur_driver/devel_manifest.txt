@@ -1,0 +1,12 @@
+universal_robot/ur_driver
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/include/ur_driver/URDriverConfig.h /home/woidi/ws_ur10e_hand/devel/include/ur_driver/URDriverConfig.h
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/lib/pkgconfig/ur_driver.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/ur_driver.pc
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/__init__.py /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/ur_driver/__init__.py
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/cfg/URDriverConfig.py /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/ur_driver/cfg/URDriverConfig.py
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/lib/python3/dist-packages/ur_driver/cfg/__init__.py /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/ur_driver/cfg/__init__.py
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/share/ur_driver/cmake/ur_driverConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/ur_driver/cmake/ur_driverConfig.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/share/ur_driver/cmake/ur_driverConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/ur_driver/cmake/ur_driverConfig-version.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/share/ur_driver/docs/URDriverConfig-usage.dox /home/woidi/ws_ur10e_hand/devel/share/ur_driver/docs/URDriverConfig-usage.dox
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/share/ur_driver/docs/URDriverConfig.wikidoc /home/woidi/ws_ur10e_hand/devel/share/ur_driver/docs/URDriverConfig.wikidoc
+/home/woidi/ws_ur10e_hand/devel/.private/ur_driver/share/ur_driver/docs/URDriverConfig.dox /home/woidi/ws_ur10e_hand/devel/share/ur_driver/docs/URDriverConfig.dox

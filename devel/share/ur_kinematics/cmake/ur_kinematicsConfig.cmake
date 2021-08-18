@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/share/ur_kinematics/cmake/ur_kinematicsConfig.cmake

@@ -1,0 +1,2 @@
+moveit_resources/moveit_resources
+/home/woidi/ws_ur10e_hand/devel/.private/moveit_resources/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock

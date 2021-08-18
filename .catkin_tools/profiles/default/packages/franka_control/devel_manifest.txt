@@ -1,0 +1,8 @@
+franka_ros/franka_control
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/lib/libfranka_state_controller.so /home/woidi/ws_ur10e_hand/devel/lib/libfranka_state_controller.so
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/lib/pkgconfig/franka_control.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/franka_control.pc
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/lib/franka_control/franka_control_node /home/woidi/ws_ur10e_hand/devel/lib/franka_control/franka_control_node
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/lib/franka_control/franka_combined_control_node /home/woidi/ws_ur10e_hand/devel/lib/franka_control/franka_combined_control_node
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/share/franka_control/cmake/franka_controlConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/franka_control/cmake/franka_controlConfig-version.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/franka_control/share/franka_control/cmake/franka_controlConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/franka_control/cmake/franka_controlConfig.cmake

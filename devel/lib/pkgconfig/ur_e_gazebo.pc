@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/ur_e_gazebo/lib/pkgconfig/ur_e_gazebo.pc

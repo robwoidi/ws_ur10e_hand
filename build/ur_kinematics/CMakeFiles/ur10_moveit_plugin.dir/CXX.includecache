@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_core/include/moveit/moveit_kinematics_base_export.h
+/home/woidi/ws_moveit/devel/.private/moveit_core/include/moveit/moveit_kinematics_base_export.h
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/AttachedCollisionObject.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/AttachedCollisionObject.h
 string
 -
 vector
@@ -28,7 +28,7 @@ moveit_msgs/CollisionObject.h
 trajectory_msgs/JointTrajectory.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/BoundingVolume.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/BoundingVolume.h
 string
 -
 vector
@@ -52,7 +52,7 @@ shape_msgs/Mesh.h
 geometry_msgs/Pose.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/CollisionObject.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/CollisionObject.h
 string
 -
 vector
@@ -88,7 +88,7 @@ geometry_msgs/Pose.h
 geometry_msgs/Pose.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/Constraints.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/Constraints.h
 string
 -
 vector
@@ -112,7 +112,7 @@ moveit_msgs/OrientationConstraint.h
 moveit_msgs/VisibilityConstraint.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionFK.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionFK.h
 ros/service_traits.h
 -
 moveit_msgs/GetPositionFKRequest.h
@@ -120,7 +120,7 @@ moveit_msgs/GetPositionFKRequest.h
 moveit_msgs/GetPositionFKResponse.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionFKRequest.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionFKRequest.h
 string
 -
 vector
@@ -140,7 +140,7 @@ std_msgs/Header.h
 moveit_msgs/RobotState.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionFKResponse.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionFKResponse.h
 string
 -
 vector
@@ -160,7 +160,7 @@ geometry_msgs/PoseStamped.h
 moveit_msgs/MoveItErrorCodes.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionIK.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionIK.h
 ros/service_traits.h
 -
 moveit_msgs/GetPositionIKRequest.h
@@ -168,7 +168,7 @@ moveit_msgs/GetPositionIKRequest.h
 moveit_msgs/GetPositionIKResponse.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionIKRequest.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionIKRequest.h
 string
 -
 vector
@@ -186,7 +186,7 @@ ros/message_operations.h
 moveit_msgs/PositionIKRequest.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionIKResponse.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/GetPositionIKResponse.h
 string
 -
 vector
@@ -206,7 +206,7 @@ moveit_msgs/RobotState.h
 moveit_msgs/MoveItErrorCodes.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/JointConstraint.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/JointConstraint.h
 string
 -
 vector
@@ -222,7 +222,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/JointLimits.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/JointLimits.h
 string
 -
 vector
@@ -238,7 +238,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/KinematicSolverInfo.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/KinematicSolverInfo.h
 string
 -
 vector
@@ -256,7 +256,7 @@ ros/message_operations.h
 moveit_msgs/JointLimits.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/MoveItErrorCodes.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/MoveItErrorCodes.h
 string
 -
 vector
@@ -272,7 +272,7 @@ ros/builtin_message_traits.h
 ros/message_operations.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/OrientationConstraint.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/OrientationConstraint.h
 string
 -
 vector
@@ -292,7 +292,7 @@ std_msgs/Header.h
 geometry_msgs/Quaternion.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/PositionConstraint.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/PositionConstraint.h
 string
 -
 vector
@@ -314,7 +314,7 @@ geometry_msgs/Vector3.h
 moveit_msgs/BoundingVolume.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/PositionIKRequest.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/PositionIKRequest.h
 string
 -
 vector
@@ -338,7 +338,7 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/RobotState.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/RobotState.h
 string
 -
 vector
@@ -360,7 +360,7 @@ sensor_msgs/MultiDOFJointState.h
 moveit_msgs/AttachedCollisionObject.h
 -
 
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/include/moveit_msgs/VisibilityConstraint.h
+/home/woidi/ws_moveit/devel/.private/moveit_msgs/include/moveit_msgs/VisibilityConstraint.h
 string
 -
 vector
@@ -380,25 +380,11 @@ geometry_msgs/PoseStamped.h
 geometry_msgs/PoseStamped.h
 -
 
-/home/woidi/ws_ur10e_hand/src/geometric_shapes/include/geometric_shapes/check_isometry.h
-algorithm
--
-assert.h
--
-iostream
--
-math.h
--
-Eigen/Core
--
-Eigen/Geometry
--
-
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/exceptions/include/moveit/exceptions/exceptions.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/exceptions/include/moveit/exceptions/exceptions.h
 stdexcept
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/kinematics_base/include/moveit/kinematics_base/kinematics_base.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/kinematics_base/include/moveit/kinematics_base/kinematics_base.h
 geometry_msgs/Pose.h
 -
 moveit_msgs/MoveItErrorCodes.h
@@ -414,23 +400,23 @@ string
 moveit/moveit_kinematics_base_export.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/macros/include/moveit/macros/class_forward.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/macros/include/moveit/macros/class_forward.h
 moveit/macros/declare_ptr.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/macros/include/moveit/macros/declare_ptr.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/macros/include/moveit/macros/declare_ptr.h
 memory
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/fixed_joint_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/fixed_joint_model.h
 moveit/robot_model/joint_model.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/floating_joint_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/floating_joint_model.h
 moveit/robot_model/joint_model.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/joint_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/joint_model.h
 string
 -
 vector
@@ -446,7 +432,7 @@ random_numbers/random_numbers.h
 Eigen/Geometry
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/joint_model_group.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/joint_model_group.h
 moveit/robot_model/joint_model.h
 -
 moveit/robot_model/link_model.h
@@ -460,7 +446,7 @@ boost/function.hpp
 set
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/link_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/link_model.h
 string
 -
 vector
@@ -478,19 +464,19 @@ moveit/macros/class_forward.h
 geometric_shapes/check_isometry.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/planar_joint_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/planar_joint_model.h
 moveit/robot_model/joint_model.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/prismatic_joint_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/prismatic_joint_model.h
 moveit/robot_model/joint_model.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/revolute_joint_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/revolute_joint_model.h
 moveit/robot_model/joint_model.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_model/include/moveit/robot_model/robot_model.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_model/include/moveit/robot_model/robot_model.h
 moveit/macros/class_forward.h
 -
 moveit/exceptions/exceptions.h
@@ -516,7 +502,7 @@ Eigen/Geometry
 iostream
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_state/include/moveit/robot_state/attached_body.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_state/include/moveit/robot_state/attached_body.h
 moveit/robot_model/link_model.h
 -
 moveit/transforms/transforms.h
@@ -532,7 +518,7 @@ trajectory_msgs/JointTrajectory.h
 set
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/robot_state/include/moveit/robot_state/robot_state.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/robot_state/include/moveit/robot_state/robot_state.h
 moveit/robot_model/robot_model.h
 -
 moveit/robot_state/attached_body.h
@@ -552,7 +538,7 @@ cassert
 boost/assert.hpp
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_core/transforms/include/moveit/transforms/transforms.h
+/home/woidi/ws_moveit/src/moveit/moveit_core/transforms/include/moveit/transforms/transforms.h
 geometry_msgs/TransformStamped.h
 -
 Eigen/Geometry
@@ -562,14 +548,28 @@ boost/noncopyable.hpp
 moveit/macros/class_forward.h
 -
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_kinematics/kdl_kinematics_plugin/include/moveit/kdl_kinematics_plugin/joint_mimic.hpp
+/home/woidi/ws_moveit/src/moveit/moveit_kinematics/kdl_kinematics_plugin/include/moveit/kdl_kinematics_plugin/joint_mimic.hpp
 
-/home/woidi/ws_ur10e_hand/src/moveit/moveit_ros/planning/rdf_loader/include/moveit/rdf_loader/rdf_loader.h
+/home/woidi/ws_moveit/src/moveit/moveit_ros/planning/rdf_loader/include/moveit/rdf_loader/rdf_loader.h
 moveit/macros/class_forward.h
 -
 urdf/model.h
 -
 srdfdom/model.h
+-
+
+/home/woidi/ws_ur10e_hand/src/geometric_shapes/include/geometric_shapes/check_isometry.h
+algorithm
+-
+assert.h
+-
+iostream
+-
+math.h
+-
+Eigen/Core
+-
+Eigen/Geometry
 -
 
 /home/woidi/ws_ur10e_hand/src/universal_robot/ur_kinematics/include/ur_kinematics/ur_kin.h

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro"
+       name="ur10e" >
+
+  <!-- common stuff -->
+  <!--<xacro:include filename="$(find ur_e_description)/urdf/common.gazebo.xacro" />
+  -->
+  <!-- ur10e -->
+  <xacro:include filename="/home/woidi/ws_ur10e_hand/config/ur10e_joint_limited_hand_confV2.urdf.xacro"/>
+  <!-- hand -->
+  <xacro:include filename="/home/woidi/ws_ur10e_hand/config/camerasystem.xacro"/>
+
+  
+  <link name="world" />
+
+  <joint name="world_joint" type="fixed">
+    <parent link="world" />
+    <child link = "base_link" />
+    <origin xyz="0.0 0.0 0.0" rpy="0.0 0.0 0.0" />
+  </joint>
+
+  <joint name="stange_world_joint" type="fixed">
+    <parent link="world" />
+    <child link = "stange" />
+    <origin xyz="2.5 0 0" rpy="0.0 0.0 0.0" />
+  </joint>
+
+</robot>

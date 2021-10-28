@@ -1,0 +1,1 @@
+/home/woidi/ws_ur10e_hand/devel/.private/test_moveit_config/share/test_moveit_config/cmake/test_moveit_configConfig.cmake

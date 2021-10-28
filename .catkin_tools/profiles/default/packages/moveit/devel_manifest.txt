@@ -1,2 +1,0 @@
-moveit/moveit
-/home/woidi/ws_ur10e_hand/devel/.private/moveit/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock

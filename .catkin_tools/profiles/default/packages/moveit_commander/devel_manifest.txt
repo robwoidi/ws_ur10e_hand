@@ -1,8 +1,0 @@
-moveit/moveit_commander
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/lib/moveit_commander/cmake.lock /home/woidi/ws_ur10e_hand/devel/lib/moveit_commander/cmake.lock
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/lib/moveit_commander/moveit_commander_cmdline.py /home/woidi/ws_ur10e_hand/devel/lib/moveit_commander/moveit_commander_cmdline.py
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/lib/pkgconfig/moveit_commander.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_commander.pc
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/lib/python3/dist-packages/moveit_commander/__init__.py /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/moveit_commander/__init__.py
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/share/moveit_commander/cmake/moveit_commanderConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_commander/cmake/moveit_commanderConfig.cmake
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake

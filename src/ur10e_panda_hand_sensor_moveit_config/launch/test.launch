@@ -1,0 +1,7 @@
+<launch>
+    <include file="$(find gazebo_ros)/launch/empty_world.launch">
+        <!--arg name="world_name" default="worlds/empty.world"/-->
+        <!--eigene Welt laden-->
+        <arg name="world_name" value="$(find ur10e_panda_hand_sensor_moveit_config)/worlds/Table.world"/>
+    </include>
+</launch>

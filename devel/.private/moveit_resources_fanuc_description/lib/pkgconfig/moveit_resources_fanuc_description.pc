@@ -1,8 +1,0 @@
-prefix=/home/woidi/ws_ur10e_hand/devel/.private/moveit_resources_fanuc_description
-
-Name: moveit_resources_fanuc_description
-Description: Description of moveit_resources_fanuc_description
-Version: 0.8.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

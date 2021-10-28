@@ -1,1 +1,0 @@
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_commander/lib/python3/dist-packages/moveit_commander/__init__.py

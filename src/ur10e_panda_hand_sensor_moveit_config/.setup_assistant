@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/woidi/ws_ur10e_hand/config/ur10e_joint_limited_hand.urdf.xacro
+    xacro_args: ""
+  SRDF:
+    relative_path: config/ur10e.srdf
+  CONFIG:
+    author_name: Stefan Waldherr
+    author_email: stefan.waldherr@tum.de
+    generated_timestamp: 1629046091

@@ -1,6 +1,0 @@
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_commander/cmake.lock
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_commander/moveit_commander_cmdline.py
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_commander.pc
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/python3/dist-packages/moveit_commander/__init__.py
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_commander/cmake/moveit_commanderConfig.cmake
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_commander/cmake/moveit_commanderConfig-version.cmake

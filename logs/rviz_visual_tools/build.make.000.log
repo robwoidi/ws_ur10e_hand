@@ -5,13 +5,13 @@
 [  7%] [34m[1mAutomatic MOC for target rviz_visual_tools_gui[0m
 [  7%] Built target rviz_visual_tools_gui_autogen
 [35m[1mScanning dependencies of target rviz_visual_tools_remote_control[0m
-[35m[1mScanning dependencies of target rviz_visual_tools_gui[0m
 [ 11%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_remote_control.dir/rviz_visual_tools_remote_control_autogen/mocs_compilation.cpp.o[0m
 [ 14%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_remote_control.dir/src/remote_control.cpp.o[0m
-[ 18%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_gui.dir/rviz_visual_tools_gui_autogen/mocs_compilation.cpp.o[0m
-[ 22%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_gui.dir/src/rviz_visual_tools_gui.cpp.o[0m
-[ 25%] [32m[1mLinking CXX shared library /home/woidi/ws_ur10e_hand/devel/.private/rviz_visual_tools/lib/librviz_visual_tools_remote_control.so[0m
-[ 25%] Built target rviz_visual_tools_remote_control
+[ 18%] [32m[1mLinking CXX shared library /home/woidi/ws_ur10e_hand/devel/.private/rviz_visual_tools/lib/librviz_visual_tools_remote_control.so[0m
+[ 18%] Built target rviz_visual_tools_remote_control
+[35m[1mScanning dependencies of target rviz_visual_tools_gui[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_gui.dir/rviz_visual_tools_gui_autogen/mocs_compilation.cpp.o[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_gui.dir/src/rviz_visual_tools_gui.cpp.o[0m
 [ 29%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_gui.dir/src/key_tool.cpp.o[0m
 [ 33%] [32mBuilding CXX object CMakeFiles/rviz_visual_tools_gui.dir/src/remote_control.cpp.o[0m
 [ 37%] [32m[1mLinking CXX shared library /home/woidi/ws_ur10e_hand/devel/.private/rviz_visual_tools/lib/librviz_visual_tools_gui.so[0m

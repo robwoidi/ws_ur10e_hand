@@ -1,1 +1,0 @@
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_simple_controller_manager/share/moveit_simple_controller_manager/cmake/moveit_simple_controller_managerConfig.cmake

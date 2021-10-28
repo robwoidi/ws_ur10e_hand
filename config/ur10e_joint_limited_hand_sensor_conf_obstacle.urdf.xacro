@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro"
+       name="ur10e" >
+
+  <!-- common stuff -->
+  <!--<xacro:include filename="$(find ur_e_description)/urdf/common.gazebo.xacro" />
+  -->
+  <!-- ur10e -->
+  <xacro:include filename="/home/woidi/ws_ur10e_hand/config/ur10e_joint_limited_hand_confV2.urdf.xacro"/>
+  <!-- hand -->
+  <xacro:include filename="/home/woidi/ws_ur10e_hand/config/camerasystem.xacro"/>
+
+  
+  <link name="world"/>
+  <link name="sokel">
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+          <box size="0.2 0.2 1" />
+      </geometry>
+    </visual>
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+          <box size="0.2 0.2 1" />
+      </geometry>
+    </collision>
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1"/>
+      <inertia
+          ixx="1.0" ixy="0.0" ixz="0.0"
+          iyy="1.0" iyz="0.0"
+          izz="1.0"/>
+      </inertial>  
+  </link>
+
+  <joint name="world_joint" type="fixed">
+    <parent link="world" />
+    <child link = "sokel" />
+    <origin xyz="0.0 0.0 0.5" rpy="0.0 0.0 0.0" />
+  </joint>
+
+  <joint name="robot_fixed" type="fixed">
+    <parent link="sokel" />
+    <child link = "base_link" />
+    <origin xyz="0.0 0.0 0.5" rpy="0.0 0.0 0.0" />
+  </joint>
+
+  <joint name="stange_world_joint" type="fixed">
+    <parent link="world" />
+    <child link = "stange" />
+    <origin xyz="2.7 0 0" rpy="0.0 0.0 0.0" />
+  </joint>
+</robot>

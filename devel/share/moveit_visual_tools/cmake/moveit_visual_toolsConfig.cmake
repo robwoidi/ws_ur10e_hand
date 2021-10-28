@@ -1,1 +1,0 @@
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake

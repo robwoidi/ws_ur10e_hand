@@ -6,7 +6,7 @@ cmake_args:
 - -DCMAKE_BUILD_TYPE=Release
 devel_layout: linked
 devel_space: devel
-extend_path: /opt/ros/noetic
+extend_path: /home/woidi/ws_moveit/devel
 extends: null
 install: false
 install_space: install

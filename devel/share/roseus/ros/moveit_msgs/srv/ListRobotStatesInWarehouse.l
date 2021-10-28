@@ -1,1 +1,0 @@
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_msgs/share/roseus/ros/moveit_msgs/srv/ListRobotStatesInWarehouse.l

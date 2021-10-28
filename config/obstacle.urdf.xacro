@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<robot xmlns:xacro="http://ros.org/wiki/xacro" name="obstacle" >
+    <xacro:property name="x" value="0.7"/>
+    <xacro:property name="y" value="0.8"/>
+    <xacro:property name="z" value="0.0"/>
+    <xacro:property name="a" value="0.3"/>
+    <xacro:property name="b" value="0.3"/>
+    <xacro:property name="c" value="0.7"/>
+
+    
+    <link name="obstacle">
+        <visual>
+        <origin xyz="${x} ${y} ${z+c/2}" rpy="0 0 0"/>
+        <geometry>
+            <box size="${a} ${b} ${c}" />
+        </geometry>
+        </visual>
+        <collision>
+        <origin xyz="${x} ${y} ${z+c/2}" rpy="0 0 0"/>
+        <geometry>
+            <box size="${a} ${b} ${c}" />
+        </geometry>
+        </collision>
+        <inertial>
+        <origin xyz="${x} ${y} ${z+c/2}" rpy="0 0 0"/>
+        <mass value="1"/>
+        <inertia
+            ixx="1.0" ixy="0.0" ixz="0.0"
+            iyy="1.0" iyz="0.0"
+            izz="1.0"/>
+        </inertial>
+    </link>
+</robot>

@@ -1,8 +1,0 @@
-moveit_visual_tools
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/lib/libmoveit_visual_tools.so /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_visual_tools.so
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/lib/libmoveit_visual_tools.so.3.6.0 /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_visual_tools.so.3.6.0
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/lib/moveit_visual_tools/moveit_visual_tools_demo /home/woidi/ws_ur10e_hand/devel/lib/moveit_visual_tools/moveit_visual_tools_demo
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/lib/pkgconfig/moveit_visual_tools.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_visual_tools.pc
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig-version.cmake
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake

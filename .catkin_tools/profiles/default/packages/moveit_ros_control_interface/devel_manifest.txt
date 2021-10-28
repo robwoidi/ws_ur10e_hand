@@ -1,9 +1,0 @@
-moveit/moveit_plugins/moveit_ros_control_interface
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_plugin.so /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_ros_control_interface_plugin.so
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_trajectory_plugin.so.1.1.5 /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_ros_control_interface_trajectory_plugin.so.1.1.5
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_trajectory_plugin.so /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_ros_control_interface_trajectory_plugin.so
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/lib/libmoveit_ros_control_interface_plugin.so.1.1.5 /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_ros_control_interface_plugin.so.1.1.5
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/lib/pkgconfig/moveit_ros_control_interface.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_ros_control_interface.pc
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/moveit_ros_control_interfaceConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_control_interface/cmake/moveit_ros_control_interfaceConfig-version.cmake
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_control_interface/share/moveit_ros_control_interface/cmake/moveit_ros_control_interfaceConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_control_interface/cmake/moveit_ros_control_interfaceConfig.cmake

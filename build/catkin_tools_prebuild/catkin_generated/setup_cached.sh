@@ -9,5 +9,5 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/woidi/ws_ur10e_hand/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
 export PWD='/home/woidi/ws_ur10e_hand/build/catkin_tools_prebuild'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/woidi/ws_ur10e_hand/devel/.private/catkin_tools_prebuild/share/common-lisp'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/woidi/ws_ur10e_hand/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/woidi/ws_ur10e_hand/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

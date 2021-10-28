@@ -1,7 +1,0 @@
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libchomp_planner_plugin.so
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_planners_chomp.so.1.1.5
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_planners_chomp.so
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libchomp_planner_plugin.so.1.1.5
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_planners_chomp.pc
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_planners_chomp/cmake/moveit_planners_chompConfig.cmake
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_planners_chomp/cmake/moveit_planners_chompConfig-version.cmake

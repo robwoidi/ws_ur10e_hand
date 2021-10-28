@@ -1,5 +1,0 @@
-moveit_resources/panda_description
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_resources_panda_description/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_resources_panda_description/lib/pkgconfig/moveit_resources_panda_description.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_resources_panda_description.pc
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig.cmake
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_resources_panda_description/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/moveit_resources_panda_description/cmake/moveit_resources_panda_descriptionConfig-version.cmake

@@ -1,8 +1,0 @@
-prefix=/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_benchmarks
-
-Name: moveit_ros_benchmarks
-Description: Description of moveit_ros_benchmarks
-Version: 1.1.5
-Cflags: -I/home/woidi/ws_ur10e_hand/src/moveit/moveit_ros/benchmarks/include
-Libs: -L${prefix}/lib -lmoveit_ros_benchmarks
-Requires: tf2_eigen moveit_ros_planning moveit_ros_warehouse roscpp

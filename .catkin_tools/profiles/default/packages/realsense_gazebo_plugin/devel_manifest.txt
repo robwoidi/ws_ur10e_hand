@@ -1,0 +1,6 @@
+realsense_gazebo_plugin
+/home/woidi/ws_ur10e_hand/devel/.private/realsense_gazebo_plugin/cmake.lock /home/woidi/ws_ur10e_hand/devel/./cmake.lock
+/home/woidi/ws_ur10e_hand/devel/.private/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.so /home/woidi/ws_ur10e_hand/devel/lib/librealsense_gazebo_plugin.so
+/home/woidi/ws_ur10e_hand/devel/.private/realsense_gazebo_plugin/lib/pkgconfig/realsense_gazebo_plugin.pc /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/realsense_gazebo_plugin.pc
+/home/woidi/ws_ur10e_hand/devel/.private/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake /home/woidi/ws_ur10e_hand/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake
+/home/woidi/ws_ur10e_hand/devel/.private/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake /home/woidi/ws_ur10e_hand/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake

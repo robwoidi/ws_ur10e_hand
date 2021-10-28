@@ -23,8 +23,16 @@
         <!--joint name="panda_finger_joint2" value="0"/-->
     </group_state>
     <group_state name="open" group="hand">
-        <joint name="panda_finger_joint1" value="0.03"/>
+        <joint name="panda_finger_joint1" value="0.04"/>
         <!--joint name="panda_finger_joint2" value="0.04"/-->
+    </group_state>
+    <group_state name="ready" group="arm">
+        <joint name="elbow_joint" value="2.1348"/>
+        <joint name="shoulder_lift_joint" value="-2.1001"/>
+        <joint name="shoulder_pan_joint" value="0"/>
+        <joint name="wrist_1_joint" value="-0.0868"/>
+        <joint name="wrist_2_joint" value="1.507"/>
+        <joint name="wrist_3_joint" value="1.5794"/>
     </group_state>
     <group_state name="down" group="arm">
         <joint name="elbow_joint" value="0"/>
@@ -42,14 +50,7 @@
         <joint name="wrist_2_joint" value="1.5447"/>
         <joint name="wrist_3_joint" value="0"/>
     </group_state>
-    <group_state name="ready" group="arm">
-        <joint name="elbow_joint" value="2.1348"/>
-        <joint name="shoulder_lift_joint" value="-2.1001"/>
-        <joint name="shoulder_pan_joint" value="0"/>
-        <joint name="wrist_1_joint" value="-0.0868"/>
-        <joint name="wrist_2_joint" value="1.507"/>
-        <joint name="wrist_3_joint" value="1.5794"/>
-    </group_state>
+    
     <!--END EFFECTOR: Purpose: Represent information about an end effector.-->
     <end_effector name="hand" parent_link="tool0" group="hand" parent_group="arm"/>
     <!--DISABLE COLLISIONS: By default it is assumed that any link of the robot could potentially come into collision with any other link in the robot. This tag disables collision checking between a specified pair of links. -->

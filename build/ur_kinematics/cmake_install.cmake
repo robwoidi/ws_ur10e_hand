@@ -216,7 +216,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur3_moveit_plugin.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur3_moveit_plugin.so"
-         OLD_RPATH "/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_planning/lib:/opt/ros/noetic/lib:/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_occupancy_map_monitor/lib:/home/woidi/ws_ur10e_hand/devel/.private/moveit_core/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/woidi/ws_ur10e_hand/devel/.private/geometric_shapes/lib:/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib:"
+         OLD_RPATH "/home/woidi/ws_moveit/devel/.private/moveit_ros_planning/lib:/opt/ros/noetic/lib:/home/woidi/ws_moveit/devel/.private/moveit_ros_occupancy_map_monitor/lib:/home/woidi/ws_moveit/devel/.private/moveit_core/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/woidi/ws_ur10e_hand/devel/.private/geometric_shapes/lib:/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur3_moveit_plugin.so")
@@ -239,7 +239,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur5_moveit_plugin.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur5_moveit_plugin.so"
-         OLD_RPATH "/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_planning/lib:/opt/ros/noetic/lib:/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_occupancy_map_monitor/lib:/home/woidi/ws_ur10e_hand/devel/.private/moveit_core/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/woidi/ws_ur10e_hand/devel/.private/geometric_shapes/lib:/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib:"
+         OLD_RPATH "/home/woidi/ws_moveit/devel/.private/moveit_ros_planning/lib:/opt/ros/noetic/lib:/home/woidi/ws_moveit/devel/.private/moveit_ros_occupancy_map_monitor/lib:/home/woidi/ws_moveit/devel/.private/moveit_core/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/woidi/ws_ur10e_hand/devel/.private/geometric_shapes/lib:/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur5_moveit_plugin.so")
@@ -262,7 +262,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur10_moveit_plugin.so")
     file(RPATH_CHANGE
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur10_moveit_plugin.so"
-         OLD_RPATH "/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_planning/lib:/opt/ros/noetic/lib:/home/woidi/ws_ur10e_hand/devel/.private/moveit_ros_occupancy_map_monitor/lib:/home/woidi/ws_ur10e_hand/devel/.private/moveit_core/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/woidi/ws_ur10e_hand/devel/.private/geometric_shapes/lib:/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib:"
+         OLD_RPATH "/home/woidi/ws_moveit/devel/.private/moveit_ros_planning/lib:/opt/ros/noetic/lib:/home/woidi/ws_moveit/devel/.private/moveit_ros_occupancy_map_monitor/lib:/home/woidi/ws_moveit/devel/.private/moveit_core/lib:/opt/ros/noetic/lib/x86_64-linux-gnu:/home/woidi/ws_ur10e_hand/devel/.private/geometric_shapes/lib:/home/woidi/ws_ur10e_hand/devel/.private/ur_kinematics/lib:"
          NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libur10_moveit_plugin.so")

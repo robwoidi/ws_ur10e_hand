@@ -1,9 +1,0 @@
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_move_group_capabilities_base.so.1.1.5
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_move_group_default_capabilities.so.1.1.5
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_move_group_default_capabilities.so
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_move_group_capabilities_base.so
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_ros_move_group.pc
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_ros_move_group/list_move_group_capabilities
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_ros_move_group/move_group
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_move_group/cmake/moveit_ros_move_groupConfig-version.cmake
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_ros_move_group/cmake/moveit_ros_move_groupConfig.cmake

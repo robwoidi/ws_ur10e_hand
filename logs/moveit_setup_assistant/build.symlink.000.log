@@ -1,9 +1,0 @@
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_setup_assistant_widgets.so
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_setup_assistant_tools.so.1.1.5
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_setup_assistant_widgets.so.1.1.5
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/libmoveit_setup_assistant_tools.so
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_setup_assistant/moveit_setup_assistant
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/moveit_setup_assistant/collisions_updater
-Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/moveit_setup_assistant.pc
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_setup_assistant/cmake/moveit_setup_assistantConfig.cmake
-Symlinking /home/woidi/ws_ur10e_hand/devel/share/moveit_setup_assistant/cmake/moveit_setup_assistantConfig-version.cmake

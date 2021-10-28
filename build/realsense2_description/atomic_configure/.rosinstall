@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/woidi/ws_ur10e_hand/devel/.private/realsense2_description/setup.sh

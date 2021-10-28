@@ -1,0 +1,4 @@
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/librealsense_gazebo_plugin.so
+Symlinking /home/woidi/ws_ur10e_hand/devel/lib/pkgconfig/realsense_gazebo_plugin.pc
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake
+Symlinking /home/woidi/ws_ur10e_hand/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake

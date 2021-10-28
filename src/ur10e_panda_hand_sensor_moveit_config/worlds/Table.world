@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<sdf version="1.4">
+  <world name="table">
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    <include>
+      <uri>model://table</uri>
+      <name>tabel</name>
+      <pose>0.5 -1.2 0 0 0 0</pose>
+    </include>
+    <include>
+      <uri>model://gear_part</uri>
+      <name>gear_part</name>
+      <pose>0.75 -0.95 1.03 0 0 0</pose>
+    </include>
+    <include>
+      <uri>model://coke_can</uri>
+      <name>coke_can</name>
+      <pose>0.6 -1 1.03 0 0 0</pose>
+    </include>
+    <include>
+      <uri>model://beer</uri>
+      <name>beer</name>
+      <pose>0.4 -1.2 1.03 0 0 0</pose>
+    </include>
+  </world>
+</sdf>

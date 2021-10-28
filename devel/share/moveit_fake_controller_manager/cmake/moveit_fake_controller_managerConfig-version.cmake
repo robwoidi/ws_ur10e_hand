@@ -1,1 +1,0 @@
-/home/woidi/ws_ur10e_hand/devel/.private/moveit_fake_controller_manager/share/moveit_fake_controller_manager/cmake/moveit_fake_controller_managerConfig-version.cmake
